@@ -12,3 +12,10 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+
+V1033698-01.zip
+oracle-graph-visualization-library-23.1.0.zip
+
+src/main/resources/public/index.js
+src/main/resources/public/alta.css
+src/main/resources/public/index.d.ts
