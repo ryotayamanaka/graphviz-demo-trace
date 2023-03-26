@@ -13,6 +13,8 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
+bin/*
+
 V1033698-01.zip
 oracle-graph-visualization-library-23.1.0.zip
 
